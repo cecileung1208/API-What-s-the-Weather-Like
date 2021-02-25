@@ -1,5 +1,7 @@
 # Python API -Challenge - Weatherpy
 
+![Image](https://cdn.windowsreport.com/wp-content/uploads/2019/08/Storm-Weather-930x620.jpg)
+
 To understand how the weather works globally, a Python script have been created for 500+ cities of varying distance from the equator. With the help of a Python Library, the OpenWeatherMap API and some programming technique, weather information have been extracted for all these cities.
 
 ## **The Summary of Results have the following outputs:**
