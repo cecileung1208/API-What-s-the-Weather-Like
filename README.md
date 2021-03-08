@@ -64,12 +64,11 @@ In this project, the objective is to determine the correlation between latitude 
 
 Cities near the equator experience the highest maximum temperature. As the latitude increases , the temperature drops significantly. In general, the Southern Hemisphere have higher temperature than the Northern Hemisphere
 
-<p align="center">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_MaxTemp.png">
+<p float="left">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_MaxTemp.png" width="100">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_MaxTemp.png" width="100"> 
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_MaxTemp.png" width="100">
 </p>
-
-![alt](https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_MaxTemp.png) | ![alt](https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_MaxTemp.png)
-
 
 Latitude vs Humidity and Latitude vs Cloudiness
 
