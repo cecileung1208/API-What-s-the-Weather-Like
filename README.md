@@ -1,8 +1,8 @@
 # Global Weather Analysis
 
-## Background
 ![Image](https://cdn.windowsreport.com/wp-content/uploads/2019/08/Storm-Weather-930x620.jpg)
 
+## Background
 In this project, the objective is to determine the correlation between latitude against factors such as temperature, humidity, cloudiness and windspeed from over 500 cities.  To accomplish this, the global cities weather information is extracted from the Open Weather Map API website.  Then, Jupyter Notebook is written by using programming techniques like Python, Matplotlib, Numpy, Requests, Citypy, Pandas and Scipy to obtain the required outputs.
 
 ## Requirements
