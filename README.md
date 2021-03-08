@@ -74,9 +74,9 @@ Cities near the equator experience the highest maximum temperature. As the latit
 The correlation is almost zero but one noticeable trend is that almost 80% of the cities have a humidity of greater than 60%
 
 <p float="left">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_Humidity.png" width="300">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_Humidity.png" width="300"> 
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_Humidity.png" width="300">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_Humidity.png" width="250">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_Humidity.png" width="250"> 
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_Humidity.png" width="250">
 </p>
 
 
