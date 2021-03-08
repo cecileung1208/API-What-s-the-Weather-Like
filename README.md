@@ -54,8 +54,8 @@ In this project, the objective is to determine the correlation between latitude 
 
 ## Scripts
 
-[API Key](https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/api_key.py)<br>
-[Weatherpy Notebook](https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/WeatherPy.ipynb)
+* [API Key](https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/api_key.py)
+* [Weatherpy Notebook](https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/WeatherPy.ipynb)
 
 ## Results
 
