@@ -60,3 +60,22 @@ In this project, the objective is to determine the correlation between latitude 
 ## Results
 
 
+1. Latitude vs Maximum Temperature
+
+Cities near the equator experience the highest maximum temperature. As the latitude increases , the temperature drops significantly. In general, the Southern Hemisphere have higher temperature than the Northern Hemisphere
+
+<p align="center">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_MaxTemp.png">
+</p>
+
+![alt](https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_MaxTemp.png) | ![alt](https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_MaxTemp.png)
+
+
+Latitude vs Humidity and Latitude vs Cloudiness
+
+The correlation between these 2 analysis have close to a zero correlation but the following trends are found:
+Almost 80% of the cities have humidity of 60% or more.
+Majority of the cities have 0% or 80-100% clouiness.
+Latitude vs Wind Speed
+
+There is no strong relationship between latitude and wind speed as the correlation is only 0.15. However, as the latitude around 60-90 degress, there are numerous cities with wind speed of more than 20 mph.
