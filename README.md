@@ -3,7 +3,7 @@
 ## Background
 ![Image](https://cdn.windowsreport.com/wp-content/uploads/2019/08/Storm-Weather-930x620.jpg)
 
-In this project, the objective is to determine the correlation between latitude against factors such as temperature, humidity, cloudiness and windspeed from over 500 cities.  To accomplish this, the global cities weather information is extracted from the Open Weather Map API website.  Then, along with using various programming techniques like Python, Matplotlib, Numpy, Requests, Citypy, Pandas and Scipy ub Jupyter Notebook to obtain the required outputs.
+In this project, the objective is to determine the correlation between latitude against factors such as temperature, humidity, cloudiness and windspeed from over 500 cities.  To accomplish this, the global cities weather information is extracted from the Open Weather Map API website.  Then, Jupyter Notebook is written by using programming techniques like Python, Matplotlib, Numpy, Requests, Citypy, Pandas and Scipy to obtain the required outputs.
 
 ## Requirements
 1. Build a series of scatter plots to showcase the following relationships:
@@ -12,7 +12,7 @@ In this project, the objective is to determine the correlation between latitude 
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
 
-2. Calculate the regression model and plot the best fit line on the scatter plots for the following:
+2. Using the Regression Model, determine the best fit line and plot it against the below scatter plots:
 * Temperature (F) vs. Latitude (Northern)
 * Temperature (F) vs. Latitude (Southern)
 * Humidity (%) vs. Latitude (Northern)
