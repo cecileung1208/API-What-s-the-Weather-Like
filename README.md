@@ -64,9 +64,9 @@ In this project, the objective is to determine the correlation between latitude 
 Cities near the equator experience the highest maximum temperature. As the latitude increases , the temperature drops significantly. In general, the Southern Hemisphere have higher temperature than the Northern Hemisphere
 
 <p float="left">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_MaxTemp.png" width="300">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_MaxTemp.png" width="300"> 
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_MaxTemp.png" width="300">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_MaxTemp.png" width="250">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_MaxTemp.png" width="250"> 
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_MaxTemp.png" width="250">
 </p>
 
 **2. Latitude vs Humidity**
@@ -74,9 +74,9 @@ Cities near the equator experience the highest maximum temperature. As the latit
 The correlation is almost zero but one noticeable trend is that almost 80% of the cities have a humidity of greater than 60%
 
 <p float="left">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_Humidity.png" width="300">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_Humidity.png" width="300"> 
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_Humidity.png" width="300">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_Humidity.png" width="250">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_Humidity.png" width="250"> 
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_Humidity.png" width="250">
 </p>
 
 
@@ -85,9 +85,9 @@ The correlation is almost zero but one noticeable trend is that almost 80% of th
 The correlation is weak but the graphs do show that the majority of the cities have either 0% or 80-100% cloudiness.
 
 <p float="left">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_Cloudiness.png" width="300">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_Cloudiness.png" width="300"> 
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_Cloudiness.png" width="300">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_Cloudiness.png" width="250">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_Cloudiness.png" width="250"> 
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_Cloudiness.png" width="250">
 </p>
 
 
@@ -96,8 +96,8 @@ The correlation is weak but the graphs do show that the majority of the cities h
 There is no strong relationship between latitude and wind speed as the correlation is only 0.15. However, as the latitude around 60-90 degress, there are numerous cities with wind speed of more than 20 mph.
 
 <p float="left">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_WindSpeed.png" width="300">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_Windspeed.png" width="300"> 
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_Windspeed.png" width="300">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_WindSpeed.png" width="250">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_Windspeed.png" width="250"> 
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_Windspeed.png" width="250">
 </p>
 
