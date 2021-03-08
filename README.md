@@ -69,11 +69,23 @@ Cities near the equator experience the highest maximum temperature. As the latit
   <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_MaxTemp.png" width="300">
 </p>
 
-Latitude vs Humidity and Latitude vs Cloudiness
+**2.  Latitude vs Humidity and Latitude vs Cloudiness**
 
 The correlation between these 2 analysis have close to a zero correlation but the following trends are found:
-Almost 80% of the cities have humidity of 60% or more.
-Majority of the cities have 0% or 80-100% clouiness.
-Latitude vs Wind Speed
+* Almost 80% of the cities have humidity of 60% or more.
+* Majority of the cities have 0% or 80-100% clouiness.
+* Latitude vs Wind Speed
+
+<p float="left">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_Humidity.png" width="300">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_Humidity.png" width="300"> 
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_Humidity.png" width="300">
+</p>
+
+<p float="left">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_MaxTemp.png" width="300">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_MaxTemp.png" width="300"> 
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_MaxTemp.png" width="300">
+</p>
 
 There is no strong relationship between latitude and wind speed as the correlation is only 0.15. However, as the latitude around 60-90 degress, there are numerous cities with wind speed of more than 20 mph.
