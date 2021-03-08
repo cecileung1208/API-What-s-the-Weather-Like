@@ -12,7 +12,7 @@ In this project, the objective is to determine the correlation between latitude 
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
 
-2. Calculate the regression model and plot the best fit line on the scatter plots by the northern and southern hemisphere for the following:
+2. Calculate the regression model and plot the best fit line on the scatter plots for the following:
 * Temperature (F) vs. Latitude (Northern)
 * Temperature (F) vs. Latitude (Southern)
 * Humidity (%) vs. Latitude (Northern)
@@ -31,16 +31,22 @@ In this project, the objective is to determine the correlation between latitude 
 2.  Produce a text file to define the api key.
 3.  In Jupyter Notebook, import dependencies and install libraries as required.
 4.  Generate random cities list.
-5.  Perform an test API call using the try and except method.
+5.  Perform an test API call using a for loop through try and except method.
     * Generate a random list of 15 cities/random names to determine if you can successfully call the information.
     * Create record count as 1.
-    * Display output of the cityname, record 
+    * Provide URL to extract the API calls
+    * Try:
+      * Loop through cities to determine if the url provides such information.
+      * If so, print city name and record number.
+    * Except:
+      * If city is not provided in the url, print city name and indicate record is not found.
+      * enter the skip command to loop through the next record.
+    * Display output of the city name and record number.
 6.  Upon test success, perform the API call and a dataframe on the 500+ cities.
-    * Create empty list to store information on cityname, maximum temperature, cloudiness, humidity, windspeed, latitude, longitude, date, and country.
-    * Create record and set counts as 1.
-    * Generate the API call using the try and except method.
-    * Append outputs to empty lists.
-    * Display output results.
+    * Create empty list to store information on city name, maximum temperature, cloudiness, humidity, windspeed, latitude, longitude, date, and country.
+    * Create record and set counts as 1 for the first record.
+    * Generate the API call using the try and except method as per above.
+    * Display the output of the city name, record number and set number.
     * Create dataframe from the updated lists.
     * Validate the dataframe by conducting a record count for each column.
     * Save the dataframe as a CSV.
@@ -69,3 +75,5 @@ In this project, the objective is to determine the correlation between latitude 
 [Weatherpy Notebook](https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/WeatherPy.ipynb)
 
 ## Results
+
+
