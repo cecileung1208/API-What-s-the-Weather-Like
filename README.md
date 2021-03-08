@@ -92,4 +92,12 @@ Majority of the cities either have 0% cloudiness or 80-100% cloudiness.
 
 
 **4. Latitude vs Wind Speed**
+
 There is no strong relationship between latitude and wind speed as the correlation is only 0.15. However, as the latitude around 60-90 degress, there are numerous cities with wind speed of more than 20 mph.
+
+<p float="left">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_WindSpeed.png" width="300">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_Windspeed.png" width="300"> 
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_Windspeed.png" width="300">
+</p>
+
