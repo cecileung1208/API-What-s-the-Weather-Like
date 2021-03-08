@@ -69,9 +69,9 @@ Cities near the equator experience the highest maximum temperature. As the latit
   <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_MaxTemp.png" width="300">
 </p>
 
-**2. Latitude vs Humidity and Latitude vs Cloudiness**
+**2. Latitude vs Humidity**
 
-The correlation is almost zero but one noticeable trend is that almost 80% of the cities have humidity of 60% or more.
+The correlation is almost zero but one noticeable trend is that almost 80% of the cities have a humidity of greater than 60%
 
 <p float="left">
   <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_Humidity.png" width="300">
@@ -82,7 +82,7 @@ The correlation is almost zero but one noticeable trend is that almost 80% of th
 
 **3. Latitude vs Cloudiness**
 
-Majority of the cities either have 0% cloudiness or 80-100% cloudiness.
+Majority of the cities have either 0% or 80-100% cloudiness.
 
 <p float="left">
   <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_Cloudiness.png" width="300">
