@@ -82,7 +82,7 @@ The correlation is almost zero but one noticeable trend is that almost 80% of th
 
 **3. Latitude vs Cloudiness**
 
-Majority of the cities have either 0% or 80-100% cloudiness.
+The correlation is weak but the graphs do show that the majority of the cities have either 0% or 80-100% cloudiness.
 
 <p float="left">
   <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_Cloudiness.png" width="300">
