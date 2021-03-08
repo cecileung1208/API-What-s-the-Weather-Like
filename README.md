@@ -1,8 +1,20 @@
-# Python API -Challenge - Weatherpy
+# Global Weather Analysis
 
+## Background
 ![Image](https://cdn.windowsreport.com/wp-content/uploads/2019/08/Storm-Weather-930x620.jpg)
 
-To understand how the weather works globally, a Python script have been created for 500+ cities of varying distance from the equator. With the help of a Python Library, the OpenWeatherMap API and some programming technique, weather information have been extracted for all these cities.
+In this project, the objective is to determine the correlation between latitude against factors such as temperature, humidity, cloudiness and windspeed from over 500 cities.  To accomplish this, the global cities weather information is extracted from the Open Weather Map API.  Then, using programming techniques like Python, Matplotlib, Numpy, Requests, Citypy, Pandas and Scipy in Jupyter Notebook to produce the required outputs.
+
+## Requirements
+The objective  is to build a series of scatter plots to showcase the following relationships:
+
+Temperature (F) vs. Latitude
+Humidity (%) vs. Latitude
+Cloudiness (%) vs. Latitude
+Wind Speed (mph) vs. Latitude
+
+## Datasets
+
 
 ## **The Summary of Results have the following outputs:**
 
